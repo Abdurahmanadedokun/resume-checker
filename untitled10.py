@@ -8,7 +8,6 @@ Original file is located at
 """
 
 # Consolidate all pip installs and spaCy model download
-!pip install pdfplumber python-docx spacy streamlit
 !python -m spacy download en_core_web_sm
 
 import os
