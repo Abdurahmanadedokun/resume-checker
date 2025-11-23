@@ -8,7 +8,6 @@ Original file is located at
 """
 
 # Consolidate all pip installs and spaCy model download
-!python -m spacy download en_core_web_sm
 
 import os
 import sys
